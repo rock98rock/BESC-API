@@ -6,7 +6,7 @@ setup(
     packages=find_packages(),
     license='MIT License',
     description='Send data to the ESS API BESC',
-    download_url='https://github.com/rock98rock/BESC-API/archive/1.0.tar.gz'',
+    download_url='https://github.com/rock98rock/BESC-API/archive/1.0.tar.gz',
     install_requires=['query_string'],
     author='Clive Lim'
 )
